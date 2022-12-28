@@ -1,0 +1,130 @@
+2022-12-28 12:47:52 :: Array
+(
+    [0] => item
+    [1] => stdClass Object
+        (
+            [id] => 2
+            [user_id] => 2
+            [thread_id] => 1
+            [unread_count] => 2
+            [last_read] => 0
+            [last_delivered] => 0
+            [is_muted] => 0
+            [is_deleted] => 0
+            [last_update] => 16722099996076
+        )
+
+)
+
+
+2022-12-28 12:47:52 :: Array
+(
+    [0] => author
+    [1] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 2
+                    [user_login] => buddyone
+                    [user_pass] => $P$B0BpvNLPf3e8DBXjj2laqXhiEga5mm0
+                    [user_nicename] => buddyone
+                    [user_email] => buddyone@mailinator.com
+                    [user_url] => 
+                    [user_registered] => 2022-12-24 13:55:25
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => buddyone first
+                )
+
+            [ID] => 2
+            [caps] => Array
+                (
+                    [subscriber] => 1
+                )
+
+            [cap_key] => wp_capabilities
+            [roles] => Array
+                (
+                    [0] => subscriber
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [level_0] => 1
+                    [subscriber] => 1
+                )
+
+            [filter] => 
+            [site_id:WP_User:private] => 1
+        )
+
+)
+
+
+2022-12-28 12:54:15 :: Array
+(
+    [0] => item
+    [1] => stdClass Object
+        (
+            [id] => 2
+            [user_id] => 2
+            [thread_id] => 1
+            [unread_count] => 0
+            [last_read] => 0
+            [last_delivered] => 0
+            [is_muted] => 0
+            [is_deleted] => 0
+            [last_update] => 16722101052277
+        )
+
+)
+
+
+2022-12-28 12:54:15 :: http://buddy_one_prac.test/wp-json/better-messages/v1/thread/1/send?nocache=1672210454297
+
+2022-12-28 12:54:15 :: Array
+(
+    [0] => author
+    [1] => WP_User Object
+        (
+            [data] => stdClass Object
+                (
+                    [ID] => 2
+                    [user_login] => buddyone
+                    [user_pass] => $P$B0BpvNLPf3e8DBXjj2laqXhiEga5mm0
+                    [user_nicename] => buddyone
+                    [user_email] => buddyone@mailinator.com
+                    [user_url] => 
+                    [user_registered] => 2022-12-24 13:55:25
+                    [user_activation_key] => 
+                    [user_status] => 0
+                    [display_name] => buddyone first
+                )
+
+            [ID] => 2
+            [caps] => Array
+                (
+                    [subscriber] => 1
+                )
+
+            [cap_key] => wp_capabilities
+            [roles] => Array
+                (
+                    [0] => subscriber
+                )
+
+            [allcaps] => Array
+                (
+                    [read] => 1
+                    [level_0] => 1
+                    [subscriber] => 1
+                )
+
+            [filter] => 
+            [site_id:WP_User:private] => 1
+        )
+
+)
+
+
